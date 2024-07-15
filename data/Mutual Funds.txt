@@ -1,0 +1,84 @@
+Question: When will my account get activated for transactions?
+Answer: We enable accounts for transactions to our new clients within two working days. In case of non availability of right information from your end or in case of any data mismatch it may take more time. Our customer support team will reach out to you in such cases to update you about the progress of your account. We are also receiving a lot of cases where our customer's KYCs are on hold by the KRA agencies, in such cases we ask investors for signed documents and modification forms from our clients to get them KYC verified.
+
+Question: Why my Bank account details are being asked while opening an account?
+Answer: We as a Mutual fund distributor are bound by the regulations set by the regulator. As regulator expect us to record Bank details of our clients as per KYC (Know your customer) guidelines, we ask our clients to furnish bank account details for KYC compliance purpose only. We verify that the bank account information submitted actually belongs to you. We only ask basic data like bank Account Number, IFSC etc.
+
+Question: What is KYC and how it affects my investment account?
+Answer: KYC stands for "Know Your Customer" which is a must for all financial intermediaries who allow investors to invest in financial instruments as per the directives of financial market regulator SEBI. Since the KYC approvals are done by the third party agencies called KRAs, they take some time to approve a KYC request. any delay in KYC approval can delay account activation process. We urge any such user who is facing a delay in account activation to call up our customer care desk at +918824242424
+
+Question: How to add a Nominee in Mutual Funds for CAMS & KARVY
+Answer: To register nominee details for KARVY, follow these steps:Detailed YouTube video: https://www.youtube.com/watch?v=3lrNEWx1gKY&t=0sStep 1: Click on the Karvy link here and enter your PAN, mode of holdings, and registered mobile number/email ID. Generate & Validate the OTP to view all your holdings under KFintech.Step 2: Select the folios under which you wish to register the nominee and click on 'Opt in Nomination'Step 3: Select the number of nominees you want to add and fill in their details as Name, PAN, % of allocation, relation and DOB.  Click on Save button.Step 4: Now click on Generate OTP button and enter the same in the given box to submit the data. A success pop-up will indicate that the nomination has been updated successfully.To register nominee details for CAMS, follow these steps:Detailed YouTube video : https://www.youtube.com/watch?v=3lrNEWx1gKY&t=59sStep 1: Click on the CAMS Link here and select Nomination Opt-In/Opt-Out. Enter your PAN, select AMC, and login via OTP (Mobile/Email).Step 2: Choose Mode of Holding and Request Type as 'Register Nominee' to view all your investment details. Now select the folios under which you wish to register the nominee. Click on Proceed.Step 3: On the Nominee Details page, click on Add option present in the right corner against the selected folio.Step 4: Fill in the nominee's details such as Name, DOB, percent of allocation, and relation. Step 5: Click on OK Button. You can also add the same nominee details across all the selected folios by clicking on YES on the dialog pop up box.Step 6: Click on Submit button and proceed to OTP. Enter the same in the given box. Once submitted, a success pop-up will indicate that the nomination has been updated successfully.In case of any queries please contact our Customer Support: +91 8824242424       care@choiceindia.com
+
+Question: Why MF units have been allocated to me without a payment against the order?
+Answer: RTA's (Registrar and Transfer Agents) allocate temporary units to clients based on the orders received from our system, as payment settlement takes time and RTAs do not want Investors to wait for payment settlements for allocating MF units as the NAV of funds changes daily. Such allotment is temporary in nature and RTA's reverse the units allocated in case of no payment in T+5 days where T represents the day when orders were executed. Our system removes such data based on the latest RTA files.
+
+Question: What is an offline order?
+Answer: Any order placed between 6:00 AM and 3:00 PM gets executed on the same day. In case you are making an order after the market closes (Post 3:00 pm), orders will hit the system for execution on the subsequent working day at 6:05 AM. The unit allocation of such orders will happen at T+2 days, where T represents the day when order got executed.
+
+Question: When will I get MF units allocated for the paid orders?
+Answer: Unit allocations by RTAs (Registrar and Transfers Agents) usually happen in T+2 days though in some cases it may take more time than that.
+
+Question: How can I redeem my investments
+Answer: Investor can click on redeem button in Holding screen and can decide on Unit quantity or Value which needs to be redeemed. Once an order is initiated from the platform, the investor would receive an OTP via SMS & email on the registered mobile number and email id asking for a confirmation, once Investor gives confirmation for redemption, the order gets placed by the system. In case of Equity Funds redemption, the amount will get credited in your bank account in T+3 days and in case of Debt funds in T+1 day where T stands for transaction date (working day).
+
+Question: My bank account has been debited but allocation is not done yet.
+Answer: In case you have made an order on a non-working day/weekend or post 3:00 PM(any working day) your order will be pushed for execution at 6:00 AM on the next working day. In case you do not see any allocation, after 3-4 working days please escalate the matter to us along with your bank transaction copy. Our customer support team will follow-up with RTAs for the same.
+
+Question: By when will my SIPs start getting deducted directly from the bank account?
+Answer: In case the order has been placed with an already active mandate, SIP will be regularized in T+14 days. In case the order has been placed with a new Bank Mandate, you can safely expect the SIP to be regularized by the next debit date. Usually, a new mandate takes 15-20 days to get approved by banks. This turn around time also depends on the efficiency of your bank, some banks respond quickly whereas bank like SBI usually takes T+30 days to approve a bank mandate. In case you have missed a SIP, you can simply make a order of additional investment from the platform to compensate it.
+
+Question: What is a Bank Mandate?
+Answer: Bank Mandates are basically a pre-approved limit on your bank account which can enable regular payments on a fixed date. A mandate amount is just a limit and the actual regular deductions from your account would be based on the actual SIP order placed by you. A mandate of the relatively large amount can help you to enable multiple SIPs using the same mandate.
+
+Question: How can I stop my SIP?
+Answer: To stop any of your future SIPs, just go to the support page of the App or Website and use the message or chat window to place a request for stopping SIP along with its details. Based on your request, our team will cancel future SIPs from your account.
+
+Question: Why my SIP installment is not getting deducted?
+Answer: Deduction of SIP from your bank account depends on the approval status of your bank mandate. Banks typically take 15 days to one month to approve a Bank Mandate for auto deduction of future SIP payments. In case, you encounter this situation with your SIPs, please write to us on care@choiceindia.com or call us on +918824242424 and we will try to resolve it as soon as possible.
+
+Question: Why my SIP installment is not getting deducted?
+Answer: Deduction of SIP from your bank account depends on the approval status of your bank mandate. Banks typically take 15 days to one month to approve a Bank Mandate for auto deduction of future SIP payments. In case, you encounter this situation with your SIPs, please write to us on care@choiceindia.com or call us on +918824242424 and we will try to resolve it as soon as possible.
+
+Question: What is an Absolute return?
+Answer: Absolute Return is a point to point return given by a mutual fund in a specific time period.
+
+Question: What is CAGR?
+Answer: The Compound Annual Growth Rate is a representation of annualized return over multiple time periods. CAGR takes into consideration the compounding effect of return. The usual representation of mutual fund returns is in terms of CAGR.
+
+Question: Why return representation is different than other websites & Platforms?
+Answer: Uses Absolute returns to showcase mutual fund returns over multiple time periods. An investor can easily calculate the historic gain in amount terms using absolute returns by simply multiplying the absolute return % to the investment amount. Whereas, when it comes to CAGR, it is difficult to include the effect of compounding while calculating the gain in money terms. Hence we showcase both absolute as well as CAGR returns which will help investors make an informed decision.
+
+Question: Why all the fund performances are compared with Sensex & Bank FD?
+Answer: The usual equity market representation is Sensex and it is important for an equity fund to outperform Sensex over the long term. Hence comparing the fund performance with Sensex can help an investor to understand whether the fund outperforms the benchmark. Similarly, for debt funds, the fund performance can be compared with Bank FD where the standard return of 7.25% is taken. An investor can switch between FD and Sensex simultaneously for both Equity & Debt funds while comparing the performance.
+
+Question: What are the SIP and Lump sum Baskets?
+Answer: Choice has created SIP & Lumpsum baskets to help investors to invest in the mutual funds for common goals like wealth creation, Retirement corpus etc. These baskets are created with Choice curated list of funds with consistent performance. These baskets can be a great starting point for your investments if you are confused as to where to start.
+
+Question: What is rating methodology for equity funds?
+Answer: Rating methodology for an equity fund is based on 3 factors: Rolling returns for a rolling period of 3 years with a rolling frequency of daily, Minimum AUM of 100 Crores and Standard Deviation. The final rating is given with 60% weight to Returns, 20% weight to AUM and 20% weight to Standard Deviation.
+
+Question: What is rating methodology for debt funds?
+Answer: Rating methodology for a debt fund is based on 3 factors: Rolling returns for a rolling period of 1 year (For Liquid, Ultra Short, Low Duration, Money Market Schemes) and 3 Years (For remaining debt schemes) with rolling frequency of daily, Minimum AUM of 500 Crores and Standard Deviation. The final rating is given with 60% weight to Returns, 20% weight to AUM and 20% weight to Standard Deviation.
+
+Question: How often the ratings are renewed on?
+Answer: The Fund ratings get renewed every quarter.
+
+Question: How should I use the ratings while selecting a fund?
+Answer: Ratings are a purely quantitative analysis of funds based on its past performance and volatility. The ratings are given to help investors to analyze the funds based on the historical data. While selecting a fund to invest, with the ratings, investment horizon and risk-taking ability should also be considered. Only then a fund should be chosen to invest.
+
+Question: What is your commission structure?
+Answer: Investors who are investing via our platform get units allocated based on the NAV prices shown at the platform. We do not get any fee or commission from our clients directly for investment in regular plans. We get a small fee as a commission from fund houses directly on the volume of transaction executed on platform which helps us to power this platform
+
+Question: Can I view my existing investments done via some other platform or distributor ?
+Answer: Currently, It only shows investments done through its own platform. The only way to see your existing Investments is by submitting a Change of Broker form with us. This form can be availed by calling to our customer care team on +918824242424, customers can also write to us on care@choiceindia.com
+
+Question: How to view investments done by my family members in my account?
+Answer: It allows you to see investments done by your family members based on OTP based consents. To enable this, the member should also be a client of It. On the top of our dashboard, we have a shortcut for the family feature. Just start adding members by entering their PAN numbers. The concerned family member will receive an OTP from It. You would need to enter that OTP to be able to add a member to your account. Once done, you would be able to see investments made by your family members in your account. This access will remain a read-only access and it does not offer any transaction rights for security reasons.
+
+Question: Are my Investments safe with?
+Answer: Investments is fully secure. It does not handle your money directly or indirectly. Uses BSE Star as a backend system to enable MF transactions and settlement. This platform is owned by BSE (Bombay Stock Exchange) which is one of the oldest and most reputed exchanges in the country. It currently manages 35% of total MF transactions in India. It uses end to end encryption technology to ensure data reaches our servers safely. Our platforms have A+ rated SSL certificates which are considered highly secure. Investing is as safe as investing through a mutual fund company. Your holdings are secure with mutual funds you have invested in. It only shows that info by fetching it from RTAs (registrar and transfer agents)
+
+Question: Does it review investor portfolios?
+Answer: It currently reviews the investor portfolios on request without any additional charges. Along with portfolio review,  Also provides a suggestion on the portfolio if any changes are to be made.
+

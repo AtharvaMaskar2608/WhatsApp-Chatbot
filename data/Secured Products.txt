@@ -1,0 +1,30 @@
+Question: What is Sovereign Gold Bonds (SGB)? Who is the issuer?
+Answer: SGBs are Government Securities denominated in grams of gold. They are substitutes for holding physical gold. The Bond is issued by the Reserve Bank on behalf of the Government of India.
+
+Question: What is the minimum and maximum limit for investment?
+Answer: The Bonds are issued in denominations of one gram of gold and in multiples thereof. Minimum investment in the bond shall be one gram with a maximum buying limit maximum limit of subscription shall be of 4 kg for individuals, 4 kg for Hindu Undivided Family (HUF) and 20 kg for trusts and similar entities per fiscal year as notified by the government from time to time provided thatAnnual ceiling will include bonds subscribed under different tranches during initial issuance by Government and those purchased from the secondary marketThe ceiling on investment will not include the holdings as collateral by banks and other Financial Institutions.
+
+Question: Who is eligible to invest in the SGBs?
+Answer: The bonds will be restricted for sale to resident Indian entities including individuals, HUFs, Trusts, Universities and Charitable institutions.
+
+Question: Can I buy 4Kg in the name of each of my family members?
+Answer: Yes, each family member can hold the bond if they satisfy the eligibility criteria for investing in Sovereign Gold Bond.
+
+Question: What will be the tenor of the Sovereign Gold Bond?
+Answer: The tenor of the bond will be for a period of 8 years with exit option after 5th ,6th and 7th year.
+
+Question: What are Treasury Bills (T-Bills)?
+Answer: Treasury bills, often known as T-bills, are short-term Government Securities issued by the Central Government of India having a maturity of less than a year. T-bills are issued in three maturities — 91 days, 182 days and 364 days. Treasury bills are interest-free securities with zero coupon payments. They are issued at a discount and redeemed at face value when they reach maturity. For instance, a 91-day Treasury bill with a face value of 100 may be issued at 97.30, or at a discount of, say, 2.70, and redeemed for that amount.
+
+Question: What are Government Securities(G-Sec)?
+Answer: The Central Government issues Government Securities (G-Sec). These securities come in two varieties: short-term (referred as "Treasury Bills," with initial maturities of less than a year) and long-term (usually called Government bonds or dated securities with an original maturity of one year or more).
+
+Question: What are State Development Loan (SDL)?
+Answer: State Development Loans, often known as SDL, are dated Government Securities issued by the State Government. State Governments borrow money from the market in the form of State Development Loans (SDLs) to pay their financial obligations.
+
+Question: What is the minimum bidding amount?
+Answer: The minimum biding amount is Rs. 10,000 (face value), and bids must be in multiples of Rs. 10,000.
+
+Question: What is the settlement time, or how long will it take to allot G-secs and T-Bill?
+Answer: After the auction, you will get the securities in five days. The T-Bill auction takes place on Wednesdays during the auction week, and the G-Bond auction takes place on Fridays during the auction week.
+

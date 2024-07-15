@@ -1,0 +1,15 @@
+Question: How do I buy foreign stocks from India?
+Answer: You can register for an overseas trading account with Vishvesta and upload the necessary KYC documents. After verification, your account will be activated in 1-2 business days; following which you can start investing in foreign stocks from India.
+
+Question: What documents do you need to open an overseas trading account?
+Answer: Your KYC documents, i.e., a copy of your Aadhaar Card, PAN Card, Address Proof and Bank Account Details will be required to open an account.
+
+Question: What is the minimum balance required?
+Answer: While there is no minimum balance required, it is advisable to ensure that you fund your account sufficiently due to the lack of margin funding facility for Global Markets.
+
+Question: How long does it take to open a new International Demat Account?
+Answer: It takes approximately 1 - 2 working days to open an overseas trading account.
+
+Question: Under whose name shares would be issued?
+Answer: Shares will be issued under the investor’s name, Interactive Brokers LLC- regulated by FINRA and SEC would be the custodian. They will be working as executing and clearing brokers.
+

@@ -1,0 +1,30 @@
+Question: How to view quotes?
+Answer: You can view quotes in Choice online using the Android or iOS app or via the website. The quote generation process is very simple. With some basic information like Name, phone number, email ID, age and pin code of the insured person you can view the quotes. This process takes less than 2 minutes.
+
+Question: How to buy a Policy?
+Answer: You can click on the Insurance Tab by clicking on More in Choice. You need to fill in some basic information like Name, phone number, email ID, age, pin code and on the quote page you need to select the insurer for which you need to buy the insurance. Once you select the insurer then you need to fill Proper details, Contact details medical details and Nominee details. After filling all the details, you need to verify the details and click on Pay now. Once the payment is done you will receive the policy copy from the insurer end.
+
+Question: What is a family floater?
+Answer: As the name suggests is a plan that is made for families. Several members of a family can be covered under a policy for a sum assured by paying a single premium in a year.
+
+Question: How many times can I claim health insurance in a financial year?
+Answer: There’s no limit to the number of claims in a single year unless there is a specific condition specified in the policy document.
+
+Question: Difference between health insurance and a Mediclaim policy?
+Answer: Health Insurance provides full protection against the treatment, hospitalization, surgery expenses whereas Mediclaim is covering hospitalization expenses, domiciliary care costs, and only cover for a pre-specified amount.Hence, Health insurance is a better choice compared to Mediclaim policy.
+
+Question: How to view Quotes
+Answer: You can view quotes in Choice online using the Android or iOS app or via the website. The quote generation process is very simple. With some basic information like Gender, Smoker/Non-Smoker, DOB, Occupation, Education and Annual income of the insured person you can view the quotes. This process takes less than 2 minutes.
+
+Question: How to buy a policy?
+Answer: You can click on the Insurance Tab by clicking on More in Choice. You need to fill in some basic information like Gender, Smoker/Non-Smoker, DOB, Occupation, Education, Annual income and on the quote page you need to select the insurer for which you need to buy the insurance. Once you select the insurer then you need to enter pin code, you can also select the desired rider as per your need. After that you need to fill Basic details, Contact details, medical details and Nominee details. After filling all the details, you need to click on Pay now. Once the payment is done you will receive the policy copy from the insurer end.
+
+Question: Do you need to buy a Term insurance plan or a Whole life, ULIP, etc?
+Answer: Term insurance helps you to safeguard your family in your absence, especially if you are the only earning member of the several dependents. And on the other hand, if you want to save or earn returns you need to go for Whole life, ULIP plans.
+
+Question: Does term insurance premiums get affected, if insured is having a smoking habit?
+Answer: Yes, smoking habit will increase the premium amount.
+
+Question: Does a term insurance plan differ from an accidental insurance plan?
+Answer: Term insurance plans include death due to any reason accidental or natural wherein an accidental insurance policy holder is insured under accidental death benefit only.
+
